@@ -2,7 +2,7 @@ import React from 'react';
 import Link from "next/link";
 import type {UrlObject} from "url";
 import Image from "next/image";
-import profilePic from '../../public/images/avatar.jpg'
+import profilePic from '../../public/images/david-becker-xGZ96aiPh5o-unsplash.jpg'
 import DarkModeButton from "@/components/DarkModeButton";
 
 interface NavBarContainerProps {
