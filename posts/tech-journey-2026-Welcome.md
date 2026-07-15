@@ -1,30 +1,6 @@
 ---
-title: 'Tech Journey 2026 - Welcome'
+title: 'Entry 26893'
 date: '2026-07-15'
 ---
 
-Welcome to Tech Journey! Let's make some cool sites!
-
-What is your name, your favorite pokemon or something you like.
-
-- Luke (facilatator) - Snorlax
-- Mayank (helper) - Psyduck
-- Sierra (helper) - Cats
-- Mathani - Track
-- Ava - Gengar
-- Samuel - Dragonair
-- Dominic - Espurr
-- Olive - Emolga
-- Jesse - Haxorus
-- Karar - Psyduck
-- Musau - Eevee
-- Rania - Mewtwo
-- Sheeta - Gengar
-- Liam - Wishiwashi
-- Marcus - Geodude
-- Carter - Bidoof
-- Danaya - Cats
-- Ryan - Ryquaza
-- Ayla - Cubone
-- Gentry - Wightbaking
-
+The people of Avilon fell about 3 econs ago, the cause of the collapse of the planet is still unknow and with the amount of time passed the truth will probably never be known. My crew and I have crashed in what would have been the planet’s capital. We are heading to the capital now, it will be in the next entry.
